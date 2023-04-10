@@ -7,7 +7,7 @@ x=0
 steps=0
 prev1Vector=0
 prev2Vector=0
-threshold=1.2
+threshold=1.5
 datenow=time.ctime()
 while True:
     try:
@@ -26,17 +26,17 @@ while True:
         print('--------------------')
 
         vect1=modulVector-prev1Vector
-        vect2=modulVector-prev2Vector
+        #vect2=modulVector-prev2Vector
         print('Diferenta dintre valoarea distantei vectoriale curente si celei anterioara - vect1: {} '.format(vect1))
-        print('Diferenta dintre valoarea distantei vectoriale curente si celei anterioara - vect2: {} '.format(vect2))
+        #print('Diferenta dintre valoarea distantei vectoriale curente si celei anterioara - vect2: {} '.format(vect2))
         print('--------------------')
-        if(threshold<vect1 and threshold<vect2):
+        if(threshold<vect1):
             steps+=1
         
         prev1Vector=modulVector
-        prev2Vector=prev1Vector
+        #prev2Vector=prev1Vector
         print('Prev1vector : {} '.format(prev1Vector))
-        print('Prev2vector : {} '.format(prev2Vector))
+        #print('Prev2vector : {} '.format(prev2Vector))
         print('--------------------')
 
 
@@ -55,15 +55,15 @@ while True:
                 
 
     
-        time.sleep(1)
+        
 
-        #gyro_data = mpu.get_gyro_data()
-        #print("Gyro X : "+str(gyro_data['x']))
-        #print("Gyro Y : "+str(gyro_data['y']))
-        #print("Gyro Z : "+str(gyro_data['z']))
-        #print()
-        #print("-------------------------------")
-        #time.sleep(1)
+        gyro_data = mpu.get_gyro_data()
+        print("Gyro X : "+str(gyro_data['x']))
+        print("Gyro Y : "+str(gyro_data['y']))
+        print("Gyro Z : "+str(gyro_data['z']))
+        print()
+        print("-------------------------------")
+        time.sleep(1)
     except KeyboardInterrupt:
         print("\nDone")
         raise
