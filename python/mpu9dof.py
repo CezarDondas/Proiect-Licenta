@@ -1,5 +1,5 @@
 from mpu6050 import mpu6050
-from datetime import datetime, timedelta
+from datetime import datetime
 import time
 import math
 #import numpy
@@ -21,7 +21,7 @@ import math
 
 mpu = mpu6050(0x68) #Adresa pentru senzorul mpu9dof care este mereu 0x68, dar daca nu este aceasta,
 #ea poate fi gasita scriind comanda sudo i2cdetect -y 1 in terminal!!
-datenow=datetime.today()
+datenow=datetime.now()
 
 
 
@@ -39,36 +39,46 @@ zAccel=0
 xGyro=0
 yGyro=0
 zGyro=0
+thresholder_accel=10.00
+thresholder_gyro=50.00
 while True:
     try:
         x+=1
         print('//////////{} ITERATION!!//////////'.format(x))
         print('\n--------------------')
-        temp=mpu.get_temp()
-        print("Temp: {:.3f}".format(temp))
-        print('--------------------')
+        try:
+            temp=mpu.get_temp()
+            print("Temp: {:.3f}".format(temp))
+            print('--------------------')
+            accel_data = mpu.get_accel_data()
+            xAccel=(accel_data['x']) 
+            yAccel=(accel_data['y']) 
+            zAccel=(accel_data['z'])
+        except :
+            print('\nS-au deconectat firele de la citirea I2c si nu s-a realizat citirea senzorului!!!!!\n')
 
-        accel_data = mpu.get_accel_data()
-        xAccel=(accel_data['x']) 
-        yAccel=(accel_data['y']) 
-        zAccel=(accel_data['z'])
-        #accel_vec=[xAccel,yAccel,zAccel]
         modulVector=math.sqrt(xAccel**2+yAccel**2+zAccel**2)
-        print('Modul vector: {:.5f} '.format(modulVector))
+        #print('Modul vector: {:.5f} '.format(modulVector))
         print('--------------------')
-        vect1=modulVector-prev1Vector
-        print('Diferenta dintre valoarea distantei vectoriale curente si celei anterioara - vect1: {:.5f} '.format(vect1))
+        vect1=modulVector-prev1Vector 
+        #modulul vectorului in iteratia curenta minus modulul vectorului in cea anterioara
+
+        #print('Diferenta dintre valoarea distantei vectoriale curente si celei anterioara - vect1: {:.5f} '.format(vect1))
         print('--------------------')
-        if(vect1>threshold):
+        if(vect1>threshold): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
             steps+=1
-        if(x==1):
+        if(x==1): #in prima iteratie din while numarul de pasi sa fie 0, adica sa nu porneasca aplicatia cu 1 pas detectat(ceea ce ar fi eronat)
             steps=0
         
         prev1Vector=modulVector
         
-        print('Prev1vector : {:.5f} '.format(prev1Vector))
+        #print('Prev1vector : {:.5f} '.format(prev1Vector))
         print('--------------------')
 
+        if abs(xAccel)>thresholder_accel or abs(yAccel)>thresholder_accel or abs(zAccel)>thresholder_accel:
+            print('\nMiscare detectata!!!!!!\n')
+        else:
+            print('\nNu s-a detectat nimic.\n')
 
         print("Acc X: {:.5f} m/s^2".format(xAccel))
         print("Acc Y: {:.5f} m/s^2".format(yAccel))
@@ -81,7 +91,6 @@ while True:
                 f.write('Steps {}\n'.format(steps))
                 f.write('Datenow: {}\n'.format(datenow))
                 f.write('Iteratie: {}\n'.format(x))
-                
                 f.write('--------------------\n')
                 
 
@@ -92,9 +101,9 @@ while True:
         xGyro=(gyro_data['x'])
         yGyro=(gyro_data['y'])
         zGyro=(gyro_data['z'])
-        print("Gyro X: {:.5f}".format(xGyro))
-        print("Gyro Y: {:.5f}".format(yGyro))
-        print("Gyro Z: {:.5f}".format(zGyro))
+        #print("Gyro X: {:.5f}rad/s".format(xGyro))
+        #print("Gyro Y: {:.5f}rad/s".format(yGyro))
+        #print("Gyro Z: {:.5f}rad/s".format(zGyro))
         print()
         print("-------------------------------")
         time.sleep(1)
