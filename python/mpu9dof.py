@@ -31,6 +31,11 @@ modulVector=0
 prev1Vector=0 #variabila din program care stocheaza distanta vectorului celor 3 axe pentru iteratia curenta
 threshold=1.5 #pragul care ne ajuta sa detectam pasii, acesta poate fi setat in functie de cum dorim
 
+prevabsxAcc=0
+prevabsyAcc=0
+prevabszAcc=0
+
+
 #Am initializat variabilele ce vor fi acceleratiile pentru fiecare axa
 xAccel=0
 yAccel=0
@@ -39,7 +44,7 @@ zAccel=0
 xGyro=0
 yGyro=0
 zGyro=0
-thresholder_accel=10.00
+thresholder_accel=9.9
 thresholder_gyro=50.00
 while True:
     try:
@@ -74,8 +79,24 @@ while True:
         
         #print('Prev1vector : {:.5f} '.format(prev1Vector))
         print('--------------------')
+        absxAcc=abs(xAccel) - prevabsxAcc
+        print(absxAcc)
+        absyAcc=abs(yAccel) - prevabsyAcc
+        print(absyAcc)
+        abszAcc=abs(zAccel) - prevabszAcc
+        print(abszAcc)
 
-        if abs(xAccel)>thresholder_accel or abs(yAccel)>thresholder_accel or abs(zAccel)>thresholder_accel:
+
+
+        print("\n")
+        prevabsxAcc=abs(xAccel)
+        print(prevabsxAcc)
+        prevabsyAcc=abs(yAccel)
+        print(prevabsyAcc)
+        prevabszAcc=abs(zAccel)
+        print(prevabszAcc)
+
+        if (abs(xAccel)>thresholder_accel and absxAcc!=0) or (abs(yAccel)>thresholder_accel and absyAcc!=0) or (abs(zAccel)>thresholder_accel and abszAcc!=0):
             print('\nMiscare detectata!!!!!!\n')
         else:
             print('\nNu s-a detectat nimic.\n')
