@@ -44,7 +44,7 @@ zAccel=0
 xGyro=0
 yGyro=0
 zGyro=0
-thresholder_accel=9.9
+thresholder_accel=10
 thresholder_gyro=50.00
 while True:
     try:
