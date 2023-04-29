@@ -5,6 +5,9 @@ import math
 #import numpy
 #import matplotlib.pyplot as plt
 
+#Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
+#dar acea acceleratie de pe fiecare coordonata sa fie diferita in urmatoare iteratie ptr ca daca acceleratia ar fi aceeasi
+#fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
 """
     Aici voi scrie observatii descoperite legate de librarie, proiect s.a
 
@@ -29,11 +32,12 @@ x=0 #numarul de iteratii ale programului
 steps=0 #numarul de pasi detectati
 modulVector=0
 prev1Vector=0 #variabila din program care stocheaza distanta vectorului celor 3 axe pentru iteratia curenta
-threshold=1.5 #pragul care ne ajuta sa detectam pasii, acesta poate fi setat in functie de cum dorim
+threshold=1.2 #pragul care ne ajuta sa detectam pasii, acesta poate fi setat in functie de cum dorim
 
 prevabsxAcc=0
 prevabsyAcc=0
 prevabszAcc=0
+move=0
 
 
 #Am initializat variabilele ce vor fi acceleratiile pentru fiecare axa
@@ -44,33 +48,82 @@ zAccel=0
 xGyro=0
 yGyro=0
 zGyro=0
-thresholder_accel=10
+
+thresholder_accel=10 #am setat acest prag deoarece g=9.80 si am considerat ca intre 9.81 si 9.99 sa fie o marja de eroare pentru a evita 
+#detectarea unei miscari eronate.
 thresholder_gyro=50.00
+
 while True:
     try:
         x+=1
         print('//////////{} ITERATION!!//////////'.format(x))
         print('\n--------------------')
-        try:
-            temp=mpu.get_temp()
-            print("Temp: {:.3f}".format(temp))
-            print('--------------------')
-            accel_data = mpu.get_accel_data()
-            xAccel=(accel_data['x']) 
-            yAccel=(accel_data['y']) 
-            zAccel=(accel_data['z'])
-        except :
-            print('\nS-au deconectat firele de la citirea I2c si nu s-a realizat citirea senzorului!!!!!\n')
+        
+        temp=mpu.get_temp()
+        print("Temp: {:.3f}".format(temp))
+        print('--------------------')
+        accel_data = mpu.get_accel_data()
+        xAccel=(accel_data['x']) 
+        yAccel=(accel_data['y']) 
+        zAccel=(accel_data['z'])
+        
+        
 
         modulVector=math.sqrt(xAccel**2+yAccel**2+zAccel**2)
-        #print('Modul vector: {:.5f} '.format(modulVector))
         print('--------------------')
         vect1=modulVector-prev1Vector 
-        #modulul vectorului in iteratia curenta minus modulul vectorului in cea anterioara
-
-        #print('Diferenta dintre valoarea distantei vectoriale curente si celei anterioara - vect1: {:.5f} '.format(vect1))
         print('--------------------')
-        if(vect1>threshold): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
+
+
+        #Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
+        #dar acea acceleratie de pe fiecare coordonata sa fie diferita in urmatoare iteratie ptr ca daca acceleratia ar fi aceeasi
+        #fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
+
+        absxAcc=abs(xAccel) - prevabsxAcc
+        print(absxAcc)
+
+        absyAcc=abs(yAccel) - prevabsyAcc
+        print(absyAcc)
+
+        abszAcc=abs(zAccel) - prevabszAcc
+        print(abszAcc)
+
+        print("\n")
+        prevabsxAcc=abs(xAccel)
+        print(prevabsxAcc)
+
+        prevabsyAcc=abs(yAccel)
+        print(prevabsyAcc)
+
+        prevabszAcc=abs(zAccel)
+        print(prevabszAcc)
+
+        if (abs(xAccel)>thresholder_accel and absxAcc!=0) or (abs(yAccel)>thresholder_accel and absyAcc!=0) or (abs(zAccel)>thresholder_accel and abszAcc!=0):
+            print('\nMiscare detectata!!!!!!\n')
+            move=1
+            print(move)
+        else:
+            print('\nNu s-a detectat nimic.\n')
+            move=0
+            print(move)
+
+        print("Acc X: {:.5f} m/s^2".format(xAccel))
+        print("Acc Y: {:.5f} m/s^2".format(yAccel))
+        print("Acc Z: {:.5f} m/s^2".format(zAccel))
+        print('--------------------')
+
+        #am considerat teoria care spune ca pentru a detecta eficient numarul de pasi, trebuie sa ne gandim la tot procesul care exista
+        #adica atunci cand se efectueaza un pas, exista o miscare pe verticala(interpretarea prin acceleratia pe axa Y atunci cand talpa piciorului
+        # se ridica de la sol si dupa ajunge din nou pe sol)
+        #vect1>threshold nu inseamna nimic altceva decat verificarea daca acceleratiile de pe axe s-au modificat de la o iteratie la alta
+        #iar variabila move reprezinta confirmarea ca intr-adevar a existat o miscare, dar care nu poate fi catalogata ca un pas
+
+        #pentru moment un algortim mai eficient nu am gasit pentru a detecta in mod corect un pas.
+
+        #as putea imbunatati acest algoritm prin introducerea giroscopului care poate verifica si a doua parte a procesului din mers.
+        #interpretarea miscarii tip pendul a picioarelor.
+
+        if(vect1>threshold and yAccel>=9.8 and move): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
             steps+=1
         if(x==1): #in prima iteratie din while numarul de pasi sa fie 0, adica sa nu porneasca aplicatia cu 1 pas detectat(ceea ce ar fi eronat)
             steps=0
@@ -78,33 +131,7 @@ while True:
         prev1Vector=modulVector
         
         #print('Prev1vector : {:.5f} '.format(prev1Vector))
-        print('--------------------')
-        absxAcc=abs(xAccel) - prevabsxAcc
-        print(absxAcc)
-        absyAcc=abs(yAccel) - prevabsyAcc
-        print(absyAcc)
-        abszAcc=abs(zAccel) - prevabszAcc
-        print(abszAcc)
-
-
-
-        print("\n")
-        prevabsxAcc=abs(xAccel)
-        print(prevabsxAcc)
-        prevabsyAcc=abs(yAccel)
-        print(prevabsyAcc)
-        prevabszAcc=abs(zAccel)
-        print(prevabszAcc)
-
-        if (abs(xAccel)>thresholder_accel and absxAcc!=0) or (abs(yAccel)>thresholder_accel and absyAcc!=0) or (abs(zAccel)>thresholder_accel and abszAcc!=0):
-            print('\nMiscare detectata!!!!!!\n')
-        else:
-            print('\nNu s-a detectat nimic.\n')
-
-        print("Acc X: {:.5f} m/s^2".format(xAccel))
-        print("Acc Y: {:.5f} m/s^2".format(yAccel))
-        print("Acc Z: {:.5f} m/s^2".format(zAccel))
-        print('--------------------')
+        
         print('Steps: {}'.format(steps))
         print()
         if(x%5==0):
