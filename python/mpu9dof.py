@@ -1,9 +1,8 @@
-from mpu6050 import mpu6050
+from mpu9250 import mpu9250
 from datetime import datetime
 import time
 import math
-#import numpy
-#import matplotlib.pyplot as plt
+
 
 #Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
 #dar acea acceleratie de pe fiecare coordonata sa fie diferita in urmatoare iteratie ptr ca daca acceleratia ar fi aceeasi
@@ -22,7 +21,7 @@ import math
 """
 
 
-mpu = mpu6050(0x68) #Adresa pentru senzorul mpu9dof care este mereu 0x68, dar daca nu este aceasta,
+mpu = mpu9250(0x68) #Adresa pentru senzorul mpu9dof care este mereu 0x68, dar daca nu este aceasta,
 #ea poate fi gasita scriind comanda sudo i2cdetect -y 1 in terminal!!
 datenow=datetime.now()
 
@@ -51,7 +50,7 @@ zGyro=0
 
 thresholder_accel=10 #am setat acest prag deoarece g=9.80 si am considerat ca intre 9.81 si 9.99 sa fie o marja de eroare pentru a evita 
 #detectarea unei miscari eronate.
-thresholder_gyro=50.00
+#thresholder_gyro=50.00
 
 while True:
     try:
@@ -80,23 +79,23 @@ while True:
         #fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
 
         absxAcc=abs(xAccel) - prevabsxAcc
-        print(absxAcc)
+        
 
         absyAcc=abs(yAccel) - prevabsyAcc
-        print(absyAcc)
+        
 
         abszAcc=abs(zAccel) - prevabszAcc
-        print(abszAcc)
+        
 
         print("\n")
         prevabsxAcc=abs(xAccel)
-        print(prevabsxAcc)
+        
 
         prevabsyAcc=abs(yAccel)
-        print(prevabsyAcc)
+        
 
         prevabszAcc=abs(zAccel)
-        print(prevabszAcc)
+        
 
         if (abs(xAccel)>thresholder_accel and absxAcc!=0) or (abs(yAccel)>thresholder_accel and absyAcc!=0) or (abs(zAccel)>thresholder_accel and abszAcc!=0):
             print('\nMiscare detectata!!!!!!\n')
@@ -122,11 +121,14 @@ while True:
 
         #as putea imbunatati acest algoritm prin introducerea giroscopului care poate verifica si a doua parte a procesului din mers.
         #interpretarea miscarii tip pendul a picioarelor.
-
-        if(vect1>threshold and yAccel>=9.8 and move): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
-            steps+=1
         if(x==1): #in prima iteratie din while numarul de pasi sa fie 0, adica sa nu porneasca aplicatia cu 1 pas detectat(ceea ce ar fi eronat)
             steps=0
+
+        if(vect1>threshold and abs(yAccel)>=9.8 and move): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
+            steps+=1
+        
+        
+        
         
         prev1Vector=modulVector
         
