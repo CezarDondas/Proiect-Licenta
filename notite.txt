@@ -4,3 +4,4 @@
 4)De ce nu sa fac o mica interfata in python unde sa-mi afiseze grafic in timp real numarul de pasi(ramane de vazut).
 5)Sa creez o functie ptr detectie miscare, nu cod in while.
 6)
+asdas
