@@ -164,7 +164,7 @@ while True:
         print("Mag x: {:.5f}uT".format(xMag))
         print("Mag y: {:.5f}uT".format(yMag))
         print("Mag z: {:.5f}uT".format(zMag))
-        print('{}'.format('-'*50))
+        print('{}'.format('-'*55))
         time.sleep(1)
 
         
