@@ -154,7 +154,7 @@ while True:
         #print("Gyro X: {:.5f}rad/s".format(xGyro))
         #print("Gyro Y: {:.5f}rad/s".format(yGyro))
         #print("Gyro Z: {:.5f}rad/s".format(zGyro))
-        print()
+        print("")
 
 
         mag_data=mpu.get_mag_data()

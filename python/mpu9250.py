@@ -255,6 +255,7 @@ class mpu9250:
         m_x=(mag_x/(2.0**15.0))*self.MAG_SENS
         m_y=(mag_y/(2.0**15.0))*self.MAG_SENS
         m_z=(mag_z/(2.0**15.0))*self.MAG_SENS
+        #test
     
 
         return {'x': m_x, 'y': m_y,'z': m_z}
