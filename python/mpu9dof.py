@@ -60,7 +60,7 @@ while True:
         
         temp=mpu.get_temp()
         print("Temp: {:.3f}".format(temp))
-        print('--------------------')
+        print('{}'.format('-'*30))
         accel_data = mpu.get_accel_data()
         xAccel=(accel_data['x']) 
         yAccel=(accel_data['y']) 
@@ -69,9 +69,9 @@ while True:
         
 
         modulVector=math.sqrt(xAccel**2+yAccel**2+zAccel**2)
-        print('--------------------')
+        print('{}'.format('-'*30))
         vect1=modulVector-prev1Vector 
-        print('--------------------')
+        print('{}'.format('-'*30))
 
 
         #Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
@@ -109,7 +109,7 @@ while True:
         print("Acc X: {:.5f} m/s^2".format(xAccel))
         print("Acc Y: {:.5f} m/s^2".format(yAccel))
         print("Acc Z: {:.5f} m/s^2".format(zAccel))
-        print('--------------------')
+        print('{}'.format('-'*30))
 
         #am considerat teoria care spune ca pentru a detecta eficient numarul de pasi, trebuie sa ne gandim la tot procesul care exista
         #adica atunci cand se efectueaza un pas, exista o miscare pe verticala(interpretarea prin acceleratia pe axa Y atunci cand talpa piciorului
@@ -155,7 +155,16 @@ while True:
         #print("Gyro Y: {:.5f}rad/s".format(yGyro))
         #print("Gyro Z: {:.5f}rad/s".format(zGyro))
         print()
-        print("-------------------------------")
+
+
+        mag_data=mpu.get_mag_data()
+        xMag=(mag_data['x'])
+        yMag=(mag_data['y'])
+        zMag=(mag_data['z'])
+        print("Mag x: {:.5f}uT".format(xMag))
+        print("Mag y: {:.5f}uT".format(yMag))
+        print("Mag z: {:.5f}uT".format(zMag))
+        print('{}'.format('-'*50))
         time.sleep(1)
 
         

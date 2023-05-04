@@ -51,19 +51,28 @@ class mpu9250:
     GYRO_YOUT0 = 0x45
     GYRO_ZOUT0 = 0x47
 
+    MAGN_XOUT0=0x03
+    MAGN_YOUT0=0x05
+    MAGN_ZOUT0=0x07
+    MAG_SENS = 4900.0
 
+    AK8963_ST2   = 0x09
+    AK8963_CNTL  = 0x0A
+    AK8963_ADDR   = 0x0C
+    AK8963_ST1    = 0x02
 
     ACCEL_CONFIG = 0x1C
     GYRO_CONFIG = 0x1B
     MPU_CONFIG = 0x1A
-    #I2C_DIS = 0b00011011
+    
 
     def __init__(self, address, bus=1):
         self.address = address
         self.bus = smbus.SMBus(bus)
         # Wake up the MPU-6050 since it starts in sleep mode
         self.bus.write_byte_data(self.address, self.PWR_MGMT_1, 0x00)
-        #self.bus.write_byte_data(self.address, self.PWR_MGMT_1, 0b00011011)
+        self.bus.write_byte_data(self.address, self.AK8963_CNTL, 0x02)
+        
 
     # I2C communication methods
 
@@ -237,11 +246,29 @@ class mpu9250:
         z = z / gyro_scale_modifier
 
         return {'x': x, 'y': y, 'z': z}
+    
+    def get_mag_data(self):
+        mag_x=self.read_i2c_word(self.MAGN_XOUT0)
+        mag_y=self.read_i2c_word(self.MAGN_YOUT0)
+        mag_z=self.read_i2c_word(self.MAGN_ZOUT0)
+
+        m_x=(mag_x/(2.0**15.0))*self.MAG_SENS
+        m_y=(mag_y/(2.0**15.0))*self.MAG_SENS
+        m_z=(mag_z/(2.0**15.0))*self.MAG_SENS
+    
+
+        return {'x': m_x, 'y': m_y,'z': m_z}
+        
+        
+
+
+
 
     def get_all_data(self):
         """Reads and returns all the available data."""
         temp = self.get_temp()
         accel = self.get_accel_data()
         gyro = self.get_gyro_data()
+        mag=self.get_mag_data()
 
-        return [accel, gyro, temp]
+        return [accel, gyro, temp,mag]
