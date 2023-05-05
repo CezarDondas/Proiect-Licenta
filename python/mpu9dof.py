@@ -106,10 +106,7 @@ while True:
             move=0
             print(move)
 
-        print("Acc X: {:.5f} m/s^2".format(xAccel))
-        print("Acc Y: {:.5f} m/s^2".format(yAccel))
-        print("Acc Z: {:.5f} m/s^2".format(zAccel))
-        print('{}'.format('-'*30))
+        
 
         #am considerat teoria care spune ca pentru a detecta eficient numarul de pasi, trebuie sa ne gandim la tot procesul care exista
         #adica atunci cand se efectueaza un pas, exista o miscare pe verticala(interpretarea prin acceleratia pe axa Y atunci cand talpa piciorului
@@ -121,11 +118,28 @@ while True:
 
         #as putea imbunatati acest algoritm prin introducerea giroscopului care poate verifica si a doua parte a procesului din mers.
         #interpretarea miscarii tip pendul a picioarelor.
+        if(abs(xAccel)<0.5):
+            xAccel=0
+        
+        if(abs(yAccel)<0.5):
+            yAccel=0
+        
+        if(abs(zAccel)<0.5):
+            zAccel=0
+        
+
+
         if(x==1): #in prima iteratie din while numarul de pasi sa fie 0, adica sa nu porneasca aplicatia cu 1 pas detectat(ceea ce ar fi eronat)
             steps=0
 
         if(vect1>threshold and abs(yAccel)>=9.8 and move): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
             steps+=1
+        
+
+        print("Acc X: {:.5f} m/s^2".format(xAccel))
+        print("Acc Y: {:.5f} m/s^2".format(yAccel))
+        print("Acc Z: {:.5f} m/s^2".format(zAccel))
+        print('{}'.format('-'*30))
         
         
         
