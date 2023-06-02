@@ -1,7 +1,4 @@
-1) Trebuie sa rezolv cumva cu magnetometrul ca sa-mi gaseasca adresa 0X0C (raspunsul la intrebarea asta il voi gasi in Register Map)
-2) Implementare detectare numar pasi in mod corect si logic(sa ma folosesc de axa y de acceleratie)
-3) Sa incep documentatia pentru raport 2.
-4)De ce nu sa fac o mica interfata in python unde sa-mi afiseze grafic in timp real numarul de pasi(ramane de vazut).
-5)Sa creez o functie ptr detectie miscare, nu cod in while.
-6)
-asdas
+1)Pentru a stabili de cate ori s-a rotit o persoana in somn, ma voi lega de valorile pe axa y a giroscopului pentru ca imita perfect o persoana cara este intinsa in pat.
+2) sa implementez socket-uri, arhitectura client-server, in care server-ul este, bineinteles, RPI, iar clientul este windows-ul, adica laptopul.
+3)ar trebui sa afisez rezultatele clientului(numar de pasi, si alte calcule)
+4)imi propun sa scriu in fiecare zi macar 3-4 pagini la documentatia de la licenta ca pana pe 1 iulie sa fie terminata sa ma pot inscrie pana pe maxim 6 iulie.
