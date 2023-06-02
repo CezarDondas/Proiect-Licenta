@@ -56,10 +56,6 @@ while True:
     try:
         x+=1
         print('//////////{} ITERATION!!//////////'.format(x))
-        print('\n--------------------')
-        
-        temp=mpu.get_temp()
-        print("Temp: {:.3f}".format(temp))
         print('{}'.format('-'*30))
 
         accel_data = mpu.get_accel_data()
@@ -166,7 +162,7 @@ while True:
         
         print('Steps: {}'.format(steps))
         print()
-        if(x%5==0):
+        if(x%125==0):
             with open("/home/cezar/Desktop/Cezar_Licenta/RPI_MPU9DOF_AN4/python/steps.txt","a")as f:
                 f.write('Steps {}\n'.format(steps))
                 f.write('Datenow: {}\n'.format(datenow))
@@ -180,15 +176,9 @@ while True:
         
 
 
-        #mag_data=mpu.get_mag_data()
-        #xMag=(mag_data['x'])
-        #yMag=(mag_data['y'])
-        #zMag=(mag_data['z'])
-        #print("Mag x: {:.5f}uT".format(xMag))
-        #print("Mag y: {:.5f}uT".format(yMag))
-        #print("Mag z: {:.5f}uT".format(zMag))
-        #print('{}'.format('-'*55))
-        time.sleep(1)
+        #O iteratie efectuata la fiecare 0.000125 secunde
+        # (adica o frecventa de 8000Hz precum este mentionat si in documentatia oficiala a senzorului pentru accelerometru si giroscop)
+        time.sleep(0.000125)
 
         
         
