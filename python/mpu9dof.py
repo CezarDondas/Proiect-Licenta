@@ -59,9 +59,12 @@ while True:
         print('{}'.format('-'*30))
 
         accel_data = mpu.get_accel_data()
-        xAccel=(accel_data['x']) 
-        yAccel=(accel_data['y']) 
+        xAccel=(accel_data['x'])
+         
+        yAccel=(accel_data['y'])
+          
         zAccel=(accel_data['z'])
+        
 
         gyro_data = mpu.get_gyro_data()
         xGyro=(gyro_data['x'])
@@ -71,8 +74,10 @@ while True:
         
 
         modulVector=math.sqrt(xAccel**2+yAccel**2+zAccel**2)
+        print("Modul veector: ",modulVector)
         print('{}'.format('-'*30))
-        vect1=modulVector-prev1Vector 
+        vect1=modulVector-prev1Vector
+        print("Diff vects: ",vect1) 
         print('{}'.format('-'*30))
 
 
@@ -81,12 +86,17 @@ while True:
         #fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
 
         absxAcc=abs(xAccel) - prevabsxAcc
+        print("Print absxAcc",absxAcc)
         
 
         absyAcc=abs(yAccel) - prevabsyAcc
+
+        print("Print absyAcc",absyAcc)
         
 
         abszAcc=abs(zAccel) - prevabszAcc
+
+        print("Print abszAcc",abszAcc)
         
 
         print("\n")
@@ -108,8 +118,7 @@ while True:
             move=0
             print(move)
 
-        gyro_vel=lambda y: True if abs(y)>15 else False
-        print(gyro_vel(yGyro))
+        
         
 
         #am considerat teoria care spune ca pentru a detecta eficient numarul de pasi, trebuie sa ne gandim la tot procesul care exista
@@ -128,7 +137,7 @@ while True:
         if(x==1): #in prima iteratie din while numarul de pasi sa fie 0, adica sa nu porneasca aplicatia cu 1 pas detectat(ceea ce ar fi eronat)
             steps=0
 
-        if(move and vect1>threshold and abs(yAccel)>=mpu.GRAVITIY_MS2  and gyro_vel(yGyro)): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
+        if(move and vect1>threshold and abs(yAccel)>=mpu.GRAVITIY_MS2): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
             steps+=1
         
         prev1Vector=modulVector
