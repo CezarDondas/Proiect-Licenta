@@ -18,3 +18,795 @@ Steps 0
 Datenow: Fri Jun  9 02:00:56 2023
 Iteratie: 0
 --------------------
+Steps 0
+Datenow: Thu Jun 15 17:09:28 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Thu Jun 15 17:21:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Thu Jun 15 18:37:10 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Thu Jun 15 18:41:06 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:06:52 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:09:44 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:11:42 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:15:15 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:17:57 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:24:20 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:26:11 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:29:07 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:31:45 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:34:26 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:34:26 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:39:41 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:39:41 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:39:41 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:44:16 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Fri Jun 16 00:44:16 2023
+Iteratie: 0
+--------------------
