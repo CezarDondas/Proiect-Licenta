@@ -1,812 +1,2282 @@
 Steps 0
-Datenow: Fri Jun  9 01:47:46 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun  9 01:52:57 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun  9 01:53:50 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun  9 02:00:03 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun  9 02:00:56 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Thu Jun 15 17:09:28 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Thu Jun 15 17:21:52 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Thu Jun 15 18:37:10 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Thu Jun 15 18:41:06 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 14:52:12 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
+Datenow: Mon Jun 19 17:40:11 2023
 Iteratie: 0
 --------------------
+Steps 2
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 7
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 17
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 27
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 30
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 30
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 30
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 34
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 37
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 44
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 49
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 54
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 55
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 56
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 56
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 59
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 59
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 59
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 64
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 65
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 65
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 65
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 65
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 65
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 65
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 69
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 69
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 71
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 74
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 75
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 79
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 79
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 79
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 90
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 95
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 97
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 97
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 97
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 102
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 108
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 115
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 118
+Datenow: Mon Jun 19 17:40:11 2023
+Iteratie: 0
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 3
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 3
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 3
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 15
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 25
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 26
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 26
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 26
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 26
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 26
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 31
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 32
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 33
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 39
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 44
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 44
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 44
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 47
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 49
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 51
+Datenow: Mon Jun 19 17:59:19 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 18:01:27 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 1
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 4
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 5
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 6
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 9
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 12
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 12
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 13
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 20
+Datenow: Mon Jun 19 23:45:32 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 1
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 1
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 4
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 5
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 11
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 23
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 38
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 49
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 59
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 70
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 79
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 79
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 84
+Datenow: Tue Jun 20 00:02:48 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 3
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 4
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 6
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 6
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 6
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 6
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 6
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 15
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 29
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 38
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 48
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 49
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 49
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 49
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 49
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 50
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 52
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 54
+Datenow: Tue Jun 20 00:09:19 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 00:59:34 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 01:05:15 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 12:58:16 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 12:58:16 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 12:58:16 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 12:58:16 2023
+--------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 12:58:16 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:06:52 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:09:44 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:11:42 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 13:17:39 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:15:15 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 14:08:51 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:17:57 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:24:20 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:26:11 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:13:37 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:26:44 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:30:09 2023
+--------------------
+Steps 4
+Datenow: Tue Jun 20 17:30:09 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:54:23 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:29:07 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:31:45 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:34:26 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:34:26 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:39:41 2023
-Iteratie: 0
+Datenow: Tue Jun 20 17:56:42 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:39:41 2023
-Iteratie: 0
+Datenow: Tue Jun 20 18:08:47 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:39:41 2023
-Iteratie: 0
+Datenow: Tue Jun 20 18:08:47 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:44:16 2023
-Iteratie: 0
+Datenow: Tue Jun 20 18:08:47 2023
 --------------------
 Steps 0
-Datenow: Fri Jun 16 00:44:16 2023
-Iteratie: 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
+--------------------
+Steps 0
+Datenow: Tue Jun 20 18:08:47 2023
 --------------------
