@@ -3,7 +3,7 @@ from mpu9250 import mpu9250
 import time
 import math
 import socket
-import threading
+
 
 
 #Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
@@ -73,11 +73,11 @@ abszAcc=[0.0]*100
 
 #Initializari variabile pentru configurarea socket-urilor
 
-IP='192.168.0.59'
+IP_HOME='192.168.0.59'
 PORT=5005
 
 server_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-server_socket.bind((IP,PORT))
+server_socket.bind((IP_HOME,PORT))
 server_socket.listen(1)
 while True:
         print('Wait for client...\n')
@@ -89,7 +89,7 @@ while True:
                     #x+=1
                     #print('//////////{} ITERATION!!//////////'.format(x))
                     #print('{}'.format('-'*30))
-                    for i in range(100):
+                    for i in range(5):
                         
                         print("Iteratie : ", i)
                         accel_data = mpu.get_accel_data()
@@ -182,8 +182,8 @@ while True:
 
                         
 
-                        if i==99:
-                            accel_to_send=','.join(str(val)for val in zip(v_xAccel,v_yAccel,v_zAccel))
+                        if i == 4:
+                            accel_to_send=','.join(str(list(val))for val in list(zip(v_xAccel,v_yAccel,v_zAccel)))
                             client_socket.send(accel_to_send.encode())
                             v_xAccel.clear()
                             v_yAccel.clear()
@@ -192,7 +192,7 @@ while True:
                                 print(loop)
         
                         
-                        if(i%125==0):
+                        if(i%5==0):
                             with open("/home/cezar/Desktop/Cezar_Licenta/RPI_MPU9DOF_AN4/python/steps.txt","a")as f:
                                 f.write('Steps {}\n'.format(steps))
                                 f.write('Datenow: {}\n'.format(datenow))
@@ -201,10 +201,11 @@ while True:
                     #O iteratie efectuata la fiecare 0.000125 secunde
                     # (adica o frecventa de 8000Hz precum este mentionat si in documentatia oficiala a senzorului pentru accelerometru si giroscop)
                         
-                        #time.sleep(1) #pentru o mai buna observare a citirii datelor senzorului
-                        steps_to_send_to_client=str(steps)
-                        client_socket.send(steps_to_send_to_client.encode())
-                        time.sleep(0.000125)
+                        time.sleep(1) #pentru o mai buna observare a citirii datelor senzorului
+                        #time.sleep(0.000125)
+                        #steps_to_send_to_client=str(steps)
+                        #client_socket.send(steps_to_send_to_client.encode())
+                        #time.sleep(0.000125)
                         
                 except KeyboardInterrupt:
                     print("\nDone for now to continue editing....\n")
