@@ -48,8 +48,7 @@ thresholder_accel=10 #am setat acest prag deoarece g=9.80 si am considerat ca in
 #detectarea unei miscari eronate.
 #thresholder_gyro=50.00
 
-modulVector=[0.0]*100
-diff_mod=[0.0]*100
+
 
 #v_xAccel=[0.0]*100
 v_xAccel=[]
@@ -67,6 +66,9 @@ v_yGyro=[]
 v_zGyro=[]
 
 
+modulVector=[0.0]*100
+diff_mod=[0.0]*100
+
 absxAcc=[0.0]*100
 absyAcc=[0.0]*100
 abszAcc=[0.0]*100
@@ -74,10 +76,11 @@ abszAcc=[0.0]*100
 #Initializari variabile pentru configurarea socket-urilor
 
 IP_HOME='192.168.0.59'
+IP_AC='192.168.89.37'
 PORT=5005
 
 server_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-server_socket.bind((IP_HOME,PORT))
+server_socket.bind((IP_AC,PORT))
 server_socket.listen(1)
 while True:
         print('Wait for client...\n')
@@ -86,12 +89,7 @@ while True:
         try:
             while True:
                 try:
-                    #x+=1
-                    #print('//////////{} ITERATION!!//////////'.format(x))
                     #print('{}'.format('-'*30))
-                    
-                        
-                        
                     accel_data = mpu.get_accel_data()
                     xAccel=(accel_data['x'])
                     #v_xAccel.append(xAccel) 
@@ -106,7 +104,7 @@ while True:
                     yGyro=(gyro_data['y'])
                     #v_yGyro.append(yGyro)
                     zGyro=(gyro_data['z'])
-                        #v_zGyro.append(zGyro)
+                    #v_zGyro.append(zGyro)
                         #Odata ce am actualizat codul si am creat un for cu 100 de iteratii, as putea sa calculez numarul de pasi pentru fiecare 100 de valori dinn cele 3 axe si pe baza celor 100
                         #sa fac calculele necesare detectarii unui pas si a numarului de rotatii ptr starea somnului.
                         #sa ma ajut de functia zip cand creez for, de retinut !!
@@ -186,18 +184,10 @@ while True:
                     print("Gyro Z: {:.5f}rad/s".format(zGyro))
                     print("")
 
-                        
 
-                    xyzAccel=[xAccel,yAccel,zAccel]
-                    #xaccel_to_send=str(xAccel)
-                    #yaccel_to_send=str(yAccel)
-                    #zaccel_to_send=str(zAccel)
-
-                    #accel_to_send=','.join(str(list(val))for val in zip(xAccel,yAccel,zAccel))
-                    client_socket.send(str(xyzAccel).encode())
-                            #v_xAccel.clear()
-                            #v_yAccel.clear()
-                            #v_zAccel.clear()
+                    xyzAccelGyro=[xAccel,yAccel,zAccel,xGyro,yGyro,zGyro]
+                    client_socket.send(str(xyzAccelGyro).encode())
+                    
                         
         
                         

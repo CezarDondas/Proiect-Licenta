@@ -270,6 +270,5 @@ class mpu9250:
         temp = self.get_temp()
         accel = self.get_accel_data()
         gyro = self.get_gyro_data()
-        mag=self.get_mag_data()
-
-        return [accel, gyro, temp,mag]
+        
+        return [accel, gyro, temp]
