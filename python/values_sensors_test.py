@@ -80,7 +80,7 @@ IP_AC='192.168.89.37'
 PORT=5005
 
 server_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-server_socket.bind((IP_AC,PORT))
+server_socket.bind((IP_HOME,PORT))
 server_socket.listen(1)
 while True:
         print('Wait for client...\n')
@@ -188,25 +188,17 @@ while True:
                     xyzAccelGyro=[xAccel,yAccel,zAccel,xGyro,yGyro,zGyro]
                     client_socket.send(str(xyzAccelGyro).encode())
                     
-                        
-        
-                        
                     """
                     with open("/home/cezar/Desktop/Cezar_Licenta/RPI_MPU9DOF_AN4/python/steps.txt","a")as f:
                         f.write('Steps {}\n'.format(steps))
                         f.write('Datenow: {}\n'.format(datenow))
                         #f.write('Iteratie: {}\n'.format(i))
                         f.write('--------------------\n')
-                    """    
-                    
-                    #O iteratie efectuata la fiecare 0.000125 secunde
-                    # (adica o frecventa de 8000Hz precum este mentionat si in documentatia oficiala a senzorului pentru accelerometru si giroscop)
-                        
-                    time.sleep(1) #pentru o mai buna observare a citirii datelor senzorului
-                        #time.sleep(0.000125)
-                        #steps_to_send_to_client=str(steps)
-                        #client_socket.send(steps_to_send_to_client.encode())
-                        #time.sleep(0.000125)
+                    """     
+                    time.sleep(1)
+
+                   
+                       
                         
                 except KeyboardInterrupt:
                     print("\nDone for now to continue editing....\n")
