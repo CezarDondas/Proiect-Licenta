@@ -259,11 +259,6 @@ class mpu9250:
     
 
         return {'x': m_x, 'y': m_y,'z': m_z}
-        
-        
-
-
-
 
     def get_all_data(self):
         """Reads and returns all the available data."""

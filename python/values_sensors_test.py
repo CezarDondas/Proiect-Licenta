@@ -80,7 +80,7 @@ IP_AC='192.168.89.37'
 PORT=5005
 
 server_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-server_socket.bind((IP_HOME,PORT))
+server_socket.bind((IP_AC,PORT))
 server_socket.listen(1)
 while True:
         print('Wait for client...\n')
@@ -89,71 +89,25 @@ while True:
         try:
             while True:
                 try:
-                    #print('{}'.format('-'*30))
                     accel_data = mpu.get_accel_data()
                     xAccel=(accel_data['x'])
-                    #v_xAccel.append(xAccel) 
-                    yAccel=(accel_data['y'])
-                    #v_yAccel.append(yAccel) 
-                    zAccel=(accel_data['z'])
-                    #v_zAccel.append(zAccel)  
+                    yAccel=(accel_data['y']) 
+                    zAccel=(accel_data['z']) 
 
                     gyro_data = mpu.get_gyro_data()
                     xGyro=(gyro_data['x'])
-                    #v_xGyro.append(xGyro)
                     yGyro=(gyro_data['y'])
-                    #v_yGyro.append(yGyro)
                     zGyro=(gyro_data['z'])
-                    #v_zGyro.append(zGyro)
+                    
                         #Odata ce am actualizat codul si am creat un for cu 100 de iteratii, as putea sa calculez numarul de pasi pentru fiecare 100 de valori dinn cele 3 axe si pe baza celor 100
                         #sa fac calculele necesare detectarii unui pas si a numarului de rotatii ptr starea somnului.
                         #sa ma ajut de functia zip cand creez for, de retinut !!
-                    """
-                    modulVector[i]=math.sqrt(v_xAccel[i]*v_xAccel[i]+v_yAccel[i]*v_yAccel[i]+v_zAccel[i]*v_zAccel[i])
-                    print(modulVector[i])
-                    diff_mod[i]=modulVector[i]-modulVector[i-1]
-                    print("diff_mod: \n", diff_mod[i])
-                    """
-                        
-
-
+                 
                         #Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
                         #dar acea acceleratie de pe fiecare coordonata sa fie diferita in urmatoare iteratie ptr ca daca acceleratia ar fi aceeasi
                         #fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
-                    """
-                    absxAcc[i]=abs(v_xAccel[i]) - abs(v_xAccel[i-1])
-
-                    print("absxacc: \n",absxAcc[i-1])
-                        
-
-                    absyAcc[i]=abs(v_yAccel[i]) - abs(v_yAccel[i-1])
-
-                    print("absyacc: \n",absyAcc[i-1])
-                        
-
-                    abszAcc[i]=abs(v_zAccel[i]) - abs(v_zAccel[i-1])
-
-                    print("abszacc: \n",abszAcc[i-1])
                     
-
-                    print("\n")
-                    """
-                        
-                        
-                    """
-                    if (abs(v_xAccel[i])>thresholder_accel and absxAcc[i]!=0) or (abs(v_yAccel[i])>thresholder_accel and absyAcc[i]!=0) or (abs(v_zAccel[i])>thresholder_accel and abszAcc[i]!=0):
-                        print('\nMiscare detectata!!!!!!\n')
-                        move=True
-                            print(move)
-                    else:
-                        print('\nNu s-a detectat nimic.\n')
-                        move=False
-                        print(move)
-                        """
-
-                        
-                        
-
+    
                         #am considerat teoria care spune ca pentru a detecta eficient numarul de pasi, trebuie sa ne gandim la tot procesul care exista
                         #adica atunci cand se efectueaza un pas, exista o miscare pe verticala(interpretarea prin acceleratia pe axa Y atunci cand talpa piciorului
                         # se ridica de la sol si dupa ajunge din nou pe sol)
@@ -162,16 +116,7 @@ while True:
                         #pentru moment un algortim mai eficient nu am gasit pentru a detecta in mod corect un pas.
                         #as putea imbunatati acest algoritm prin introducerea giroscopului care poate verifica si a doua parte a procesului din mers.
                         #interpretarea miscarii tip pendul a picioarelor.
-                    """
-                    if(move and diff_mod[i]>threshold): #aici verificam daca diferenta celor 2 > un prag care va fi stabilit in functie de sensivitatea de detectie a pasilor
-                        steps+=1
-                        print("Pas detectat!!: \n",steps)
-                    else:
-                        print("Numar de pasi actuali: \n",steps)
                         
-                    """
-                        
-                    
                     print("Acc X: {:.5f} m/s^2".format(xAccel))
                     print("Acc Y: {:.5f} m/s^2".format(yAccel))
                     print("Acc Z: {:.5f} m/s^2".format(zAccel))
