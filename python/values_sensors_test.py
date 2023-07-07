@@ -1,78 +1,12 @@
-
 from mpu9250 import mpu9250
 import time
-import math
 import socket
 
 
 
-#Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
-#dar acea acceleratie de pe fiecare coordonata sa fie diferita in urmatoare iteratie ptr ca daca acceleratia ar fi aceeasi
-#fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
-"""
-    Aici voi scrie observatii descoperite legate de librarie, proiect s.a
-
-
-
-    raw values = valori brute
-    Libraria mpu6050 are deja in metodele ei calibrate valorile pentru temperatura si pentru acceleratiile pe axele x,y,z.
-    Pentru moment vreau sa calculez algoritmul potrivit pentru calcularea numarului de pasi si sa functioneze normal.
-    As fi vrut sa implementez resetarea numarului de pasi la 0 in momentul cand intram intr-o noua zi(adica la ora: 00:00), dar inca nu stiu.
-
-
-"""
-
-
 mpu = mpu9250(0x68) #Adresa pentru senzorul mpu9dof care este mereu 0x68, dar daca nu este aceasta,
 #ea poate fi gasita scriind comanda sudo i2cdetect -y 1 in terminal!!
-
 datenow=time.ctime()
-
-steps=0 #numarul de pasi detectati
-threshold=1.2 #pragul care ne ajuta sa detectam pasii, acesta poate fi setat in functie de cum dorim
-
-
-move=False
-
-
-#Am initializat variabilele ce vor fi acceleratiile pentru fiecare axa
-xAccel=0
-yAccel=0
-zAccel=0
-
-xGyro=0
-yGyro=0
-zGyro=0
-
-thresholder_accel=10 #am setat acest prag deoarece g=9.80 si am considerat ca intre 9.81 si 9.99 sa fie o marja de eroare pentru a evita 
-#detectarea unei miscari eronate.
-#thresholder_gyro=50.00
-
-
-
-#v_xAccel=[0.0]*100
-v_xAccel=[]
-#v_yAccel=[0.0]*100
-v_yAccel=[]
-#v_zAccel=[0.0]*100
-v_zAccel=[]
-
-
-#v_xGyro=[0.0]*100
-v_xGyro=[]
-#v_yGyro=[0.0]*100
-v_yGyro=[]
-#v_zGyro=[0.0]*100
-v_zGyro=[]
-
-
-modulVector=[0.0]*100
-diff_mod=[0.0]*100
-
-absxAcc=[0.0]*100
-absyAcc=[0.0]*100
-abszAcc=[0.0]*100
-
 #Initializari variabile pentru configurarea socket-urilor
 
 IP_HOME='192.168.0.59'
@@ -80,7 +14,7 @@ IP_AC='192.168.89.37'
 PORT=5005
 
 server_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-server_socket.bind((IP_AC,PORT))
+server_socket.bind((IP_HOME,PORT))
 server_socket.listen(1)
 while True:
         print('Wait for client...\n')
@@ -98,32 +32,10 @@ while True:
                     xGyro=(gyro_data['x'])
                     yGyro=(gyro_data['y'])
                     zGyro=(gyro_data['z'])
-                    
-                        #Odata ce am actualizat codul si am creat un for cu 100 de iteratii, as putea sa calculez numarul de pasi pentru fiecare 100 de valori dinn cele 3 axe si pe baza celor 100
-                        #sa fac calculele necesare detectarii unui pas si a numarului de rotatii ptr starea somnului.
-                        #sa ma ajut de functia zip cand creez for, de retinut !!
-                 
-                        #Aici am incercat sa detecteze miscare doar atunci cand acceleratia in modul depaseste acel prag setat mai sus cu 10
-                        #dar acea acceleratie de pe fiecare coordonata sa fie diferita in urmatoare iteratie ptr ca daca acceleratia ar fi aceeasi
-                        #fara sa se miste senzorul, aceasta ar detecta miscare desi nu s-a miscat.
-                    
-    
-                        #am considerat teoria care spune ca pentru a detecta eficient numarul de pasi, trebuie sa ne gandim la tot procesul care exista
-                        #adica atunci cand se efectueaza un pas, exista o miscare pe verticala(interpretarea prin acceleratia pe axa Y atunci cand talpa piciorului
-                        # se ridica de la sol si dupa ajunge din nou pe sol)
-                        #vect1>threshold nu inseamna nimic altceva decat verificarea daca acceleratiile de pe axe s-au modificat de la o iteratie la alta
-                        #iar variabila move reprezinta confirmarea ca intr-adevar a existat o miscare, dar care nu poate fi catalogata ca un pas
-                        #pentru moment un algortim mai eficient nu am gasit pentru a detecta in mod corect un pas.
-                        #as putea imbunatati acest algoritm prin introducerea giroscopului care poate verifica si a doua parte a procesului din mers.
-                        #interpretarea miscarii tip pendul a picioarelor.
-                        
                     print("Acc X: {:.5f} m/s^2".format(xAccel))
                     print("Acc Y: {:.5f} m/s^2".format(yAccel))
                     print("Acc Z: {:.5f} m/s^2".format(zAccel))
                     print('{}'.format('-'*30))
-
-                        
-                        
                     print("Gyro X: {:.5f}rad/s".format(xGyro))
                     print("Gyro Y: {:.5f}rad/s".format(yGyro))
                     print("Gyro Z: {:.5f}rad/s".format(zGyro))
@@ -131,20 +43,8 @@ while True:
 
 
                     xyzAccelGyro=[xAccel,yAccel,zAccel,xGyro,yGyro,zGyro]
-                    client_socket.send(str(xyzAccelGyro).encode())
-                    
-                    """
-                    with open("/home/cezar/Desktop/Cezar_Licenta/RPI_MPU9DOF_AN4/python/steps.txt","a")as f:
-                        f.write('Steps {}\n'.format(steps))
-                        f.write('Datenow: {}\n'.format(datenow))
-                        #f.write('Iteratie: {}\n'.format(i))
-                        f.write('--------------------\n')
-                    """     
-                    time.sleep(1)
-
-                   
-                       
-                        
+                    client_socket.send(str(xyzAccelGyro).encode()) 
+                    time.sleep(1) 
                 except KeyboardInterrupt:
                     print("\nDone for now to continue editing....\n")
                     raise
