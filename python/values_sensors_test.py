@@ -9,9 +9,9 @@ mpu = mpu9250(0x68) #Adresa pentru senzorul mpu9dof care este mereu 0x68, dar da
 datenow=time.ctime()
 #Initializari variabile pentru configurarea socket-urilor
 
-IP_HOME='192.168.0.59'
-IP_AC='192.168.89.37'
-PORT=5005
+IP_HOME='x.x.x.x'
+IP_AC='x.x.x.x'
+PORT='xxxx'
 
 server_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 server_socket.bind((IP_HOME,PORT))
