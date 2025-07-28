@@ -1,1 +1,1 @@
-# RPI_MPU9DOF_AN4
+În acest proiectul de licenta, s-au folosit dispozitivul de urmărire a mișcării MPU-9250 pentru achiziția valorilor de pe fiecare axă a fiecărui senzor și Raspberry PI 2 , un computer de mici dimensiuni, de marimea unui card bancar având un procesor ARM cu sistem de operare Raspian, având o distribuție linux. Comunicarea celor două se realizeaza prin interfața serială I2C, unde senzorul mereu va avea un comportament de tip “slave”. Plăcuța va prelua controlul și va juca rol de “master”.
