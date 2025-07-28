@@ -1,4 +1,0 @@
-1)Pentru a stabili de cate ori s-a rotit o persoana in somn, ma voi lega de valorile pe axa y a giroscopului pentru ca imita perfect o persoana cara este intinsa in pat.
-2) sa implementez socket-uri, arhitectura client-server, in care server-ul este, bineinteles, RPI, iar clientul este windows-ul, adica laptopul.
-3)ar trebui sa afisez rezultatele clientului(numar de pasi, si alte calcule)
-4)imi propun sa scriu in fiecare zi macar 3-4 pagini la documentatia de la licenta ca pana pe 1 iulie sa fie terminata sa ma pot inscrie pana pe maxim 6 iulie.
